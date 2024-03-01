@@ -14,6 +14,5 @@
 第一剧场,http://113.195.13.183:9901/tsfile/live/1028_1.m3u8?key=txiptv&playlive=0&authid=0
 金鹰卡通,http://113.195.13.183:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
 风云足球,http://113.195.13.183:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
-风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
 风云音乐,http://113.195.13.183:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
-2024-02-29更新,#genre#
+2024-03-01更新,#genre#
