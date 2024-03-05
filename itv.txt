@@ -121,6 +121,7 @@ CHC电影,http://113.195.13.183:9901/tsfile/live/1047_1.m3u8?key=txiptv&playlive
 山东卫视,http://111.74.155.231:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://113.195.13.183:9901/tsfile/live/1006_1.m3u8?key=txiptv&playlive=0&authid=0
 山东卫视,http://113.195.162.70:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=0&authid=0
+山东卫视,http://115.149.139.141:10001/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东卫视,http://59.62.8.250:9901/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
 山东教育卫视,http://113.195.13.183:9901/tsfile/live/1080_1.m3u8?key=txiptv&playlive=1&authid=0
 山西卫视,http://113.195.13.183:9901/tsfile/live/1017_1.m3u8?key=txiptv&playlive=0&authid=0
