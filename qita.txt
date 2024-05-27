@@ -1,8 +1,2 @@
 其他频道,#genre#
-江西影视旅,http://111.74.155.231:9901/tsfile/live/0019_1.m3u8?key=txiptv&playlive=0&authid=0
-江西教育标,http://111.74.155.231:9901/tsfile/live/1025_1.m3u8?key=txiptv&playlive=0&authid=0
-江西新闻,http://111.74.155.231:9901/tsfile/live/1024_1.m3u8?key=txiptv&playlive=0&authid=0
-江西经济生活,http://111.74.155.231:9901/tsfile/live/0018_1.m3u8?key=txiptv&playlive=0&authid=0
-江西都市频,http://111.74.155.231:9901/tsfile/live/0017_1.m3u8?key=txiptv&playlive=0&authid=0
-风云足球,http://59.62.8.250:9901/tsfile/live/0108_1.m3u8?key=txiptv&playlive=1&authid=0
-2024-05-26更新,#genre#
+2024-05-27更新,#genre#
