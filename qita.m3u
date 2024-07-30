@@ -1,1 +1,33 @@
-#EXTINF:-1 group-title="2024-07-29更新"
+#EXTINF:-1 group-title="其他频道",东方财经
+http://113.195.8.69:9901/tsfile/live/1081_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",先锋乒羽
+http://113.195.8.69:9901/tsfile/live/1071_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",动漫秀场
+http://113.195.8.69:9901/tsfile/live/1082_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",文化精品
+http://113.195.8.69:9901/tsfile/live/1055_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",新动漫
+http://113.195.8.69:9901/tsfile/live/1051_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",梨园
+http://113.195.8.69:9901/tsfile/live/1088_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",欢笑剧场
+http://113.195.8.69:9901/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",江西7台
+http://113.195.8.69:9901/tsfile/live/1069_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",江西8台
+http://113.195.8.69:9901/tsfile/live/1070_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",茶
+http://113.195.8.69:9901/tsfile/live/1043_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",金鹰卡通
+http://113.195.8.69:9901/tsfile/live/1008_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",风云剧场
+http://113.195.8.69:9901/tsfile/live/1037_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",风云剧场
+http://113.195.8.69:9901/tsfile/live/1085_1.m3u8?key=txiptv&playlive=1&authid=0
+#EXTINF:-1 group-title="其他频道",风云足球
+http://113.195.8.69:9901/tsfile/live/1049_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",风云音乐
+http://113.195.8.69:9901/tsfile/live/1052_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="其他频道",高尔夫
+http://113.195.8.69:9901/tsfile/live/1050_1.m3u8?key=txiptv&playlive=0&authid=0
+#EXTINF:-1 group-title="2024-07-30更新"
