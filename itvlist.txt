@@ -2,11 +2,10 @@
 CCTV6,http://113.195.45.181:9901/tsfile/live/0001_1.m3u8?key=txiptv&playlive=0&authid=0
 
 卫视频道,#genre#
-云南卫视,http://113.195.45.181:9901/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
 宁夏卫视,http://113.195.45.181:9901/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
 甘肃卫视,http://113.195.45.181:9901/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
 西藏卫视,http://113.195.45.181:9901/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
 陕西卫视,http://113.195.45.181:9901/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
 
 其他频道,#genre#
-2024-07-31更新,#genre#
+2024-08-01更新,#genre#
